@@ -1,0 +1,48 @@
+
+input[type= "submit"] {
+    background-color: aquamarine;
+    border-radius: 10%;
+    box-shadow: 5px 5px 5px;
+    display:flex;
+    align-items: center;
+    padding: 1%
+   
+    ;
+    
+  }
+  
+  input[type= "submit"]:hover {
+    background-color: aquamarine;
+  }
+  
+  input[type= "submit"]:active{
+    background-color: red;
+  }
+  input[type = "text"]{
+    padding-right: 5%;
+    display: flex;
+    justify-content:space-around;
+    flex-direction: column;
+
+
+  }
+  input[type = "password"]{
+    padding-right: 5%;
+    display: flex;
+    justify-content:space-around;
+    flex-direction: column;
+
+  }
+  .frm{
+    padding-left: 38%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-right: 10%;
+    border-width: 10% 10%;
+    background-color: bisque;
+  
+  }
+  .button-container{
+    padding: 8%;
+    padding-top: 4%;
+  }

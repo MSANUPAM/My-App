@@ -1,0 +1,38 @@
+.individual-user-info {
+    display: flex;
+    flex-direction: column;
+    width: 340px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    padding: 5px;
+   
+}
+
+.user-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: bisque;
+
+
+}
+
+.btn {
+    background-color: aquamarine;
+    border-radius: 10%;
+    box-shadow: 5px 5px 5px;
+        
+      
+}
+
+.btn:hover {
+    background-color: aquamarine;
+}
+
+.btn:active{
+    background-color: red;
+}
+.btnContainer {
+    padding: 8%;
+    padding-top: 3%;
+}

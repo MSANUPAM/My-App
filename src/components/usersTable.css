@@ -1,0 +1,36 @@
+.users-table {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    
+  
+   
+}
+
+ th, td {
+    
+   
+   
+    align-content: center;
+    border: 1px solid white;
+    scroll-padding-top: 2%;
+    align-items: center;
+    background-color: #96D4D4;
+    
+  }
+
+table{
+border-collapse: collapse;  
+flex-direction: column;
+}
+ 
+
+.edit-button {
+    margin: 5px;
+    cursor: pointer;
+}
+
+.delete-button {
+    margin: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,44 @@
+
+
+.table-row{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.table-body{
+    background-color: bisque;
+    
+   
+  }
+.profile{
+    display:flexbox;
+    flex-direction: column;
+   
+    padding-left: 43%;
+    padding-top: 7%;
+    padding-bottom: 3%;
+    padding-right: 4%;
+
+}
+.edit-button{
+    background-color: aquamarine;
+    border-radius: 10%;
+    box-sizing: content-box;
+    box-shadow: 5px 5px 5px;
+        
+ 
+}
+.save-button {
+    background-color: aquamarine;
+    border-radius: 10%;
+    box-shadow: 5px 5px 5px;
+        
+
+}
+.save-button:active{
+    background-color: red;
+}
+.edit-button:active{
+    background-color: red;
+}
